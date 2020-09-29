@@ -1,0 +1,17 @@
+c279d50e008bbf6da59bac49e2ada402 *DESCRIPTION
+64a59ebbdabdcd0c8a7cf4b0bf2ed49e *NAMESPACE
+85e158e501aa25c61d260e5bdb1c696f *R/ancova.R
+a9c6fadc4189f100b48ad2d0af871447 *R/gencorr.R
+41337de85ed3d3d2dfb92f6d3c5979fe *R/genopath.R
+5efc1ccc636ff64c4a9e0151689a134e *R/genvar.R
+bbf1d4766f7067cb97dfbee21388db4a *R/phencorr.R
+88aeed8519dbc8568ee4b084b88206eb *R/phenopath.R
+8f2ee59feadf5e15e07491df96fe3623 *R/vardata.R
+bf4c22a7a17567246e82bf6179156ad0 *data/vardata.rda
+165d0791deea83ae68c4480e014c1a85 *man/ancova.Rd
+ecb8b9607d1cbb574303e595bd25d0ed *man/gen.var.Rd
+77221d59ac436577b63d490b45682192 *man/geno.corr.Rd
+fc4a41094a6f47f3e38370d20fd6fb4c *man/geno.path.Rd
+0dd45c3ef8a98621ec67ec336eb0f79b *man/pheno.corr.Rd
+9a8ee8cb36a0f003c28856fff71da2fc *man/pheno.path.Rd
+a68960b55a680e3e5d04172d4d2c4181 *man/vardata.Rd
